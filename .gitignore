@@ -3,4 +3,8 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
-builds/
+
+# Custom Exclusions
+builds/server/
+builds/client/
+
