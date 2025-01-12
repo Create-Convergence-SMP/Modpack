@@ -3,7 +3,11 @@
 
 # Exclude README
 /README.md
+/README.txt
+/LICENSE
 
 # Custom
 builds/*
 .gitmodules
+*.ps1
+*.sh

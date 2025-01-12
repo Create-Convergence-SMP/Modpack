@@ -5,6 +5,6 @@
 *.mrpack
 
 # Custom Exclusions
-builds/server/
+builds/servers/
 builds/client/
 

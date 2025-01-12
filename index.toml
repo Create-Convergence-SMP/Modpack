@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "7ae74a1516fc1bab8cd40ecc7ffacdcd77634812568c21feb7e26d1693214db0"
-
-[[files]]
 file = "kubejs/LICENSE"
 hash = "7ae74a1516fc1bab8cd40ecc7ffacdcd77634812568c21feb7e26d1693214db0"
 
@@ -332,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/curious-lanterns.pw.toml"
-hash = "10d90264238fc258c2eb7670d16ccec53b186b9bd07c44deaa84b5fef61ee8f4"
+hash = "31b1684fe40be595b07788ffe6ed98f4ee3bf1999b2c759d547c9d9e861cef07"
 metafile = true
 
 [[files]]
@@ -503,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
+file = "mods/lucent.pw.toml"
+hash = "145dd3660e1c1fc6c68fdc1ceefa8347992ad72220dc0ebbc87ad1fbecb1e399"
 metafile = true
 
 [[files]]
