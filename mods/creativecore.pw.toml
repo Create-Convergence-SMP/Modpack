@@ -1,0 +1,13 @@
+name = "CreativeCore"
+filename = "CreativeCore_FORGE_v2.12.28_mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/LmzdNFkt/CreativeCore_FORGE_v2.12.28_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "cf0409555fbd0124682c3bd0c1519c0fb6621e68dbb069ae759c69f1fabef5a1a094a4d6c6a4fb900d4546ffaa21983f7636688e376ea08264f6e511d3c221a9"
+
+[update]
+[update.modrinth]
+mod-id = "OsZiaDHq"
+version = "LmzdNFkt"

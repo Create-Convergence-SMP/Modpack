@@ -1,0 +1,13 @@
+name = "Ctrl Q"
+filename = "ctrl-q-1.9.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dxv5rpnB/versions/FcCAEv3I/ctrl-q-1.9.1-forge.jar"
+hash-format = "sha512"
+hash = "99098472d0b15418c6baead88beb6325cbfe57793548d387470c1e85145548010e9ba065449d476b630114ee26440561f4db891bb7b1a0d371558b426be8959f"
+
+[update]
+[update.modrinth]
+mod-id = "Dxv5rpnB"
+version = "FcCAEv3I"

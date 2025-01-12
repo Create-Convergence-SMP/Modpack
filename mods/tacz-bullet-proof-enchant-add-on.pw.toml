@@ -1,0 +1,13 @@
+name = "TACZ Bullet Proof Enchant Add-on"
+filename = "bulletarmorenchant-1.1-1.20.1 .jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xLHm9KvS/versions/kBkyMVqf/bulletarmorenchant-1.1-1.20.1%20.jar"
+hash-format = "sha512"
+hash = "1328a7eda574bd61bb6ed09ba1b28953607f6e43af81f2ec01c0959ab3c0be6363fc2c9dd56a36ebab4a7e135aa03dd7e7ae9dd0524546129acd3a65a6c1c1e0"
+
+[update]
+[update.modrinth]
+mod-id = "xLHm9KvS"
+version = "kBkyMVqf"
