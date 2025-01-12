@@ -1,8 +1,88 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitmodules"
+hash = "4cada6c5060f67f04182a4e1b3e90aea654cbb1cc3daafe2efd45a79f151a979"
+
+[[files]]
 file = "LICENSE"
 hash = "7ae74a1516fc1bab8cd40ecc7ffacdcd77634812568c21feb7e26d1693214db0"
+
+[[files]]
+file = "kubejs/LICENSE"
+hash = "7ae74a1516fc1bab8cd40ecc7ffacdcd77634812568c21feb7e26d1693214db0"
+
+[[files]]
+file = "kubejs/LICENSE.md"
+hash = "ccd8de429ecfc5ac6045f66129c2c2e715b95f99ee9605c8b8736a149c4c93b2"
+
+[[files]]
+file = "kubejs/README.md"
+hash = "68f9b56710c40ca151eb83d09ba556647d14a5e53ea834bf1844086ee50cf916"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "23b9e135519f2c851271f8f83a493e8e2d6d97f5700037c17c96bd576ffc5b50"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "844303f6a3d392e809779dc10bc136a65e6b488502fc47f92dcad29dbd629b45"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "3693a34366a2fd28c3f5ee7cf8e74e91fb34a19d93b04c9e8102a32553b0bcf7"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "3ca6b84e3f7bfa2a2847de4d0ed8da501f5036370fc54caa20a3afc74604d6b7"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "d49259ea9a2ac04e932dee264a79af63fca345bfd286cf49ec572703b1b7bb13"
+
+[[files]]
+file = "kubejs/documentation/index.html"
+hash = "c0e0a187db7cb9fdb24aa0127e7cfa2d8db82b053755c7509260d375d0e0f88f"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "8a39f64f8a286ab7e26e6ac118f42c447b5d220e9e1eed0bd98c62d0671a6f87"
+
+[[files]]
+file = "kubejs/server_scripts/src/additional-crafting-tweaks.js"
+hash = "7f40d84e68eec2b92ec162f8239d9107a40a3120b65f962bfaf3befccc64b882"
+
+[[files]]
+file = "kubejs/server_scripts/src/exportItemRegistry.js"
+hash = "e8a5e6f0f2a44b0f142d25d60938686a730e16aee42b7d3eb6cebc5d6eda724b"
+
+[[files]]
+file = "kubejs/server_scripts/src/updateBlockTags.js"
+hash = "203fd3a65cb6615738f78cc9aa5ee1a411bacc6d582cda1f0ff05cfeaf2eb050"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "23f76104148facdea59426226ca4888814c9eb1a0df42b7ea297ed3f56c3dbe0"
+
+[[files]]
+file = "kubejs/startup_scripts/src/valkyirenskiesmass.js"
+hash = "3b728bb4135fc839d91a10e609e88437c0ef7f51f64324a4a9859003618a3293"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
