@@ -402,6 +402,11 @@ hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "bfe8e8ef61657bfc608211ceec3ba076813b6b534b31ab05c51d52fdbdaf6833"
 metafile = true
