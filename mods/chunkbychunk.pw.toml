@@ -1,0 +1,13 @@
+name = "Chunk By Chunk"
+filename = "ChunkByChunk-forge-1.20.1-2.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZVZyInUU/versions/NT7NJaqE/ChunkByChunk-forge-1.20.1-2.2.3.jar"
+hash-format = "sha256"
+hash = "f87939a103d3391e44bbe5dbfd838726c9ce02d752a237f6dba98ec8cd57e25b"
+
+[update]
+[update.modrinth]
+mod-id = "ZVZyInUU"
+version = "NT7NJaqE"

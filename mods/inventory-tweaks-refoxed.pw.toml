@@ -1,0 +1,13 @@
+name = "Inventory Tweaks: ReFoxed"
+filename = "invtweaks-1.20.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uqnMI1kq/versions/eyPkQyNd/invtweaks-1.20.1-1.2.0.jar"
+hash-format = "sha256"
+hash = "25863e717ce4d3e11c04b124d85296f5b0fed501814a3e4a27c8d9a42a8eb45a"
+
+[update]
+[update.modrinth]
+mod-id = "uqnMI1kq"
+version = "eyPkQyNd"

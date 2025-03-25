@@ -1,13 +1,17 @@
-name = "Create Convergence SMP"
-author = "sarisman84, maam27"
-version = "2.0.1"
+name = "BuildByChunk"
+author = "Spyro, Maam27, Prettypsycho"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19bcda7a5d55e1bcf48887919e0e6608a18de8600dad4809c732de7a2a2a484c"
+hash = "3844287a596ac0457a0c16abaa755b60d2f938674468411ce59fb12bc28715ae"
 
 [versions]
-forge = "47.3.12"
+forge = "47.4.0"
 minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = []
+datapack-folder = "global_packs/required_data"

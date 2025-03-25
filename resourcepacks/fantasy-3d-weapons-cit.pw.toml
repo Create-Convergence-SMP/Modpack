@@ -1,0 +1,13 @@
+name = "Fantasy 3D Weapons CIT"
+filename = "nongko's_Fantasy_Weapons_v1.14.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XVKh1GK/versions/FeBW9m1D/nongko%27s_Fantasy_Weapons_v1.14.zip"
+hash-format = "sha512"
+hash = "34cbdfcc94933724600f32e14a1ce778eea7967de9d678be798f7a945014ff9c6370cdad0dc087714b0c0e252e58a9d44f4b8b8628e71404cd96f2eed214be26"
+
+[update]
+[update.modrinth]
+mod-id = "4XVKh1GK"
+version = "FeBW9m1D"

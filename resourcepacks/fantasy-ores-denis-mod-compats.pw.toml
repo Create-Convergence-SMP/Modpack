@@ -1,0 +1,13 @@
+name = "Fantasy Ores - Denis' Mod Compats"
+filename = "Denis' Fantasy Ore Compats v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mAGg3G3h/versions/prkspb8K/Denis%27%20Fantasy%20Ore%20Compats%20v1.2.zip"
+hash-format = "sha512"
+hash = "04be5798a2eed8be5d0e9d9be3e1804a9df0c856c72ebdf86299cd5bc1110a4905ef76e9cc65a1128f8302a2b40f2ce53555e983076dd285043221aec807273d"
+
+[update]
+[update.modrinth]
+mod-id = "mAGg3G3h"
+version = "prkspb8K"

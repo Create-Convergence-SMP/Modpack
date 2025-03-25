@@ -1,0 +1,13 @@
+name = "Liquid Burner"
+filename = "liquidburner-1.20.1-0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kDFtUgr8/versions/qd5ehKK8/liquidburner-1.20.1-0.5.jar"
+hash-format = "sha256"
+hash = "59abde8cf968ae5501a995f311cc9367e4031b0d410294737c35b11125e97e66"
+
+[update]
+[update.modrinth]
+mod-id = "kDFtUgr8"
+version = "qd5ehKK8"

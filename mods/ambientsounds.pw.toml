@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fM515JnW/versions/8wDLqykj/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar"
-hash-format = "sha512"
-hash = "83baaee77627817718d5eab3f67bb93a9cb69012ff0de62f96ec18bba42f89c02a316324b9323d7300af180a2629a40ea34f3ecbad8821d9b1ff1103a194f8b3"
+hash-format = "sha256"
+hash = "e7e644b48213434cde6c7ec2dcd83ef967beaa363b95b4b16f4dd2b41c9ccad4"
 
 [update]
 [update.modrinth]
