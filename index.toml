@@ -21,6 +21,34 @@ file = "global_packs/required_data/double shulker shells v1.3.7 (MC 1.20-1.20.6)
 hash = "9892d5df79761f9394ddacbdc2885e485f898fdfa8dbfebea4fb8726aa0a089d"
 
 [[files]]
+file = "global_packs/required_resource/Denis' Fantasy Ore Compats v1.2.zip"
+hash = "e0d3572747872025da786849f60ed53c4162d84a25a2692b6fe833ce24b28bdc"
+
+[[files]]
+file = "global_packs/required_resource/Fantasy Ores++ v4.zip"
+hash = "8eb35626ec8c5e81e54b71c5fc664221c880b43339e1e056bdb7afd15d4378c6"
+
+[[files]]
+file = "global_packs/required_resource/Fantasy_Ores_v8[classic].zip"
+hash = "50af3ec0597beb38bb219a0c40cedf6bcc0339b86fc480c9ee945fc3c56c530e"
+
+[[files]]
+file = "global_packs/required_resource/Rocking Boats.zip"
+hash = "7192e8a957e5c36e1e4a1ff5ca3e4f08825ddbd5aa0f191b7d3c4b1a207bc973"
+
+[[files]]
+file = "global_packs/required_resource/armory-conglomery-v2.zip"
+hash = "8b918087c32717e127f5b56359b2f57c10c19f65244c7f5e6911dc32f15c2c9d"
+
+[[files]]
+file = "global_packs/required_resource/crops-3d.zip"
+hash = "798dac14133ef28673b746984db80416aecd8851ae117a52ac49e1ae80e8c3b1"
+
+[[files]]
+file = "global_packs/required_resource/nongko's_Fantasy_Weapons_v1.14.zip"
+hash = "3d18688bc3d477173242210750551a072db9fd2b393a2d10321cfee899a174ef"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "335dac568d2f7b5dc829cebc35481951190e1dcd4c350e33b67505ef52549ebf"
 metafile = true
@@ -72,17 +100,17 @@ metafile = true
 
 [[files]]
 file = "mods/cut-through.pw.toml"
-hash = "def4963f347fcf5cd8a9d1c983f3e4afaef4d3bca43e47dcd1fdd2ae7a748e3c"
+hash = "b64e0bcd7299d5f773d7e7937d141c1c55803a3077de6f242db972853b11990b"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "5c6aa0b298d7662e380cbbe2db023ea6cfc94c90a0a9329866d623a17f55f9c2"
+hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
 metafile = true
 
 [[files]]
@@ -97,12 +125,17 @@ metafile = true
 
 [[files]]
 file = "mods/experimental-settings-disabler.pw.toml"
-hash = "7b10671289c6b3007bc4aacd60e1fdf25ec854a4d7bd1e5a51d0d59a50341e8a"
+hash = "c50e9edf68588e4cc082fd1e47804b8016e022579a0eea7f0ee32a7764008d69"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
 file = "mods/forge-cit.pw.toml"
-hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
+hash = "aa80f559061dc262eeb6c0652bbc2edeb8372d5e17969e45e8e6e8bd9799ec12"
 metafile = true
 
 [[files]]
@@ -221,34 +254,20 @@ hash = "612f34b57df3396413db1ba79f99e057da377a8725887ca21b415acd85cb65b5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/3d-crops.pw.toml"
-hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
-metafile = true
+file = "resourcepacks/Crimson_Trident.zip"
+hash = "dc759f79c2c48b9f0f533f4b7c4c633c0ce8c4489bfd65dfa0a838cb9bd2fbe5"
 
 [[files]]
-file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
-metafile = true
+file = "resourcepacks/Crystal_Trident.zip"
+hash = "289ea98e1ba6cd9165bc7b2b5997a51caa774be3ddd54891eb5944bf93386ab7"
 
 [[files]]
-file = "resourcepacks/fantasy-3d-weapons-cit.pw.toml"
-hash = "664b5d7850fe0c30d8cb389ce4595e8daea55ba831f088e8d200c11c52f1ecde"
-metafile = true
+file = "resourcepacks/Heavenly_Trident.zip"
+hash = "4a5259b01f6c952030031c881b8f802930fe6443e6fdf3da2668598e66029971"
 
 [[files]]
-file = "resourcepacks/fantasy-ores-by-cesarzorak.pw.toml"
-hash = "287e432a62271cfc397149bb5f2583943e4ad9fa6981e8b36370d3d28598d9f2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fantasy-ores-denis-mod-compats.pw.toml"
-hash = "f5afa8fd2b1538c6603ac0b10a5309bbf54ad73f5fc97c4287f5afeeb3692122"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fantasy-ores-plus-plus.pw.toml"
-hash = "7d11acf1e129bd8faf9ecee4f837d582242062eb636b98b945bc134fb5b58ae1"
-metafile = true
+file = "resourcepacks/Phantomguard_Trident.zip"
+hash = "a291c3121624507afcb5e1aeb0389c5c994fd52e7bba02aabc7d6d21bfb0ab44"
 
 [[files]]
 file = "shaderpacks/bloop-shaders.pw.toml"
