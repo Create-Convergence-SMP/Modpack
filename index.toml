@@ -59,6 +59,16 @@ hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "371844680b667b447476d675a2a248a7fe64f7aaffd24ec391275f70476d7f65"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "c6a778c45860c0d04d50bf9a30801b10beb50a35442a162bf2bec466a902b490"
 metafile = true
@@ -66,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/chunkbychunk.pw.toml"
 hash = "88b38d1fa1b8d78a41c0c93385c20205c9bd56f18ff8e4092f89299b08eb131f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -181,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
 metafile = true
 
 [[files]]

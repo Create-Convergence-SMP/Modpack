@@ -1,0 +1,13 @@
+name = "Armor Poser"
+filename = "ArmorPoser-forge-1.20.1-2.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e53a700a6df1c1c5c93f746c62210acf1d450de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5854701
+project-id = 450663
